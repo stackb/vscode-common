@@ -3,6 +3,7 @@ export * as arrays from './arrays';
 export * as assert from './assert';
 export * as cancellation from './cancellation';
 export * as charCode from './charCode';
+export * as color from './color';
 export * as constants from './constants';
 export * as errors from './errors';
 export * as event from './event';
